@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.navbar{
+  background-color: #fff !important;
+}
+
+.logo{
+    font-family: 'Kaushan Script';
+}
+
+.navbar-brand{
+  font-size: 1.9rem !important;
+  color: #3498db !important;
+}
+
+.navbar a{
+  font-size: 1.0rem;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+
+.navbar a:hover{
+  color: #3498db !important;
+
+}
+
+#header {
+  width: 100%;
+  height: 80vh;
+  margin-top: 70px;
+}
+
+#header h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  color: black;
+}
+
+#header .brand-name {
+  color: #3498db;
+}
+
+#header h5 {
+  color: #484848;
+  font-weight: bold;
+}
+
+.btn-get-started {
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #3498db;
+  border: 2px solid #3498db;
+  text-decoration: none;
+}
+
+.btn-get-started:hover {
+  background-color: #3498db;
+  color: #fff;
+}
+
+#header img {
+  text-align: right;
+}
+
+#header .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down {
+  0% {
+    transform: translate(10px);
+  }
+  100% {
+    transform: translate(-10px);
+  }
+}
+
+@-webkit-keyframes up-down {
+  0% {
+    transform: translate(10px);
+  }
+  100% {
+    transform: translate(-10px);
+  }
+}
+
+.education h2 {
+  /* margin: 0; */
+  font-size: 28px;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  color: #3498db;
+  /* white-space: nowrap; */
+  /* height: 27px; */
+}
+
+.education hr {
+  color: #3498db;
+  height: 1.8px;
+}
+
+.education h4 {
+  /* color: #000;
+     */
+  color: #484848;
+  font-weight: 700;
+  font-size: 19px;
+  margin: 0;
+  padding-top: 0.8rem;
+  line-height: normal;
+}
+
+.education h5 {
+  color: #000;
+  font-size: 19px;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+
+.education h6 {
+  color: #000;
+  font-size: 19px;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+
+.skill {
+  /* border: 2px solid red; */
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.skill .skill_border {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  --tw-border-opacity: 1;
+  border-color: rgba(156, 163, 175, var(--tw-border-opacity));
+  border-width: 1px;
+  border-radius: 0.375rem;
+  cursor: move;
+  background-color: #fff;
+  box-shadow: 0 10px 30px -15px rgba(5, 86, 133, 0.2);
+  padding: 1rem;
+  transition: all 0.3s ease;
+}
+
+.skill .skill_border img {
+  width: 2rem;
+  height: 2rem;
+  --tw-text-opacity: 1;
+  color: rgba(107, 114, 128, var(--tw-text-opacity));
+}
+
+.skill .skill_border h4 {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  text-align: left;
+  color: #000;
+  font-weight: 700;
+}
+
+.skill .skill_border .span {
+  color: #000;
+}
+
+.skill .skill_border p {
+  font-size: 1.75rem;
+  line-height: 1rem;
+}
+
+.project .card-title {
+  font-size: 24px;
+  color: #000;
+  font-weight: 700;
+  /* border: 2px solid black; */
+}
+.project ul {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: #6a737d;
+}
+
+.project ul li {
+  /* margin-left:5px; */
+}
+
+.project .circle {
+  width: 10px;
+  height: 10px;
+  /* background-color: #00f; */
+  margin-right: 0.25rem;
+  border-radius: 100%;
+}
+
+.project p {
+  color: #484848;
+  font-weight: lighter;
+  /* font-size: 15px; */
+  margin: 0;
+  /* padding-top: 0.8rem; */
+  line-height: normal;
+  overflow: hidden;
+}
+
+.heading_para p {
+  color: #484848;
+  font-weight: 700;
+  font-size: 15px;
+  margin: 0;
+  padding-top: 0.8rem;
+  line-height: normal;
+  /* border: 2px solid red; */
+}
+
+.heading_top {
+  margin: 0 0 10px 0;
+  font-size: 40px;
+  font-weight: 700;
+  color: black;
+}
+
+
+@-webkit-keyframes react-reveal-338713267671411-5 {
+  0% {
+    opacity: 0;
+    transform: translate3d(0px, 20px, 0px);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.footer .footer-my-name {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
+
+.contact {
+  /* border: 2px solid red; */
+}
+
+.vertically_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* height: 200px; */
+  /* border: 3px solid green;  */
+}
+
+.contact .contact-icons {
+  margin-top: 15px;
+}
+
+.contact .contact-icons span {
+  margin: 15px;
+}
+
+.contact .contact-icons i {
+  color: #fff;
+  border-radius: 2.6rem;
+  cursor: pointer;
+  font-size: 1.3rem;
+  height: 2.6rem;
+  line-height: 2.6rem;
+  text-align: center;
+  -webkit-user-select: none;
+  user-select: none;
+  width: 2.6rem;
+  margin: 0 5px 10px;
+  transition: 0.2s ease-in;
+}
+
+.contact .contact-icons i:hover{
+color: #000;
+}
+
+
+.card{
+  border: 2px solid #3498db;
+  cursor: pointer;
+  animation-fill-mode: both;
+  animation-duration: 1000ms;
+  animation-delay: 0ms;
+  animation-iteration-count: 1;
+  opacity: 1;
+  animation-name: react-reveal-338713267671411-5;
+  color: #586069;
+  background-color: #fff;
+  box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.CP .card-title{
+  color:#000;
+  font-weight: 900;
+}
+
+.CP .card-text{
+  color:#586069;
+  font-size:.9rem;
+}
+
+.journey-h4-p h4{
+  font-size:25px;
+  font-weight: 500;
+  font-weight: bold;
+}
+
+.journey-h4-p p{
+font-size: 15px;
+font-weight: 500;
+text-transform: capitalize;
+}
