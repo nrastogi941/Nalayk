@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Nalayk/static/css/main.0ffb2c8d.css",
+    "main.js": "/Nalayk/static/js/main.5163dc44.js",
+    "static/media/lastcomputer.svg": "/Nalayk/static/media/lastcomputer.944a2be7bd9a6515635fbc800e1c2358.svg",
+    "static/media/protfolio.png": "/Nalayk/static/media/protfolio.2d6f4dd9b7180634114f.png",
+    "static/media/schooling.svg": "/Nalayk/static/media/schooling.beef4205be6780c58bdaf1b92f31ec1b.svg",
+    "static/media/collage.png": "/Nalayk/static/media/collage.17dd60e4284d9a5a695c.png",
+    "static/media/graduation.svg": "/Nalayk/static/media/graduation.26b1512b714afb1d6dc5fff3f2ae4c21.svg",
+    "static/media/Contact.svg": "/Nalayk/static/media/Contact.70600431d0ef5eac593ca398e9205dc8.svg",
+    "static/media/breakright.svg": "/Nalayk/static/media/breakright.aecea8ab0fc6c55f98f96d5690992cb7.svg",
+    "static/media/breakleft.svg": "/Nalayk/static/media/breakleft.a36e1e31a2eae3c1450bd0fe4dc4b3af.svg",
+    "static/media/react-brands.svg": "/Nalayk/static/media/react-brands.4e0c4c0327c898214aa5b79a222a0ca1.svg",
+    "static/media/php-brands.svg": "/Nalayk/static/media/php-brands.20b55d014a0920a277359a7452b58291.svg",
+    "static/media/laptop-code-solid.svg": "/Nalayk/static/media/laptop-code-solid.174f386c5cd491995af0c1f8e0d8da35.svg",
+    "static/media/globe-solid.svg": "/Nalayk/static/media/globe-solid.cecdc87b5a4d8174c9b667cbb8cd3da2.svg",
+    "index.html": "/Nalayk/index.html",
+    "static/media/database-solid.svg": "/Nalayk/static/media/database-solid.feb271fddc8ed810cc955764afea134f.svg",
+    "main.0ffb2c8d.css.map": "/Nalayk/static/css/main.0ffb2c8d.css.map",
+    "main.5163dc44.js.map": "/Nalayk/static/js/main.5163dc44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffb2c8d.css",
+    "static/js/main.5163dc44.js"
+  ]
+}
