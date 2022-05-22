@@ -18,7 +18,7 @@ const About = () => {
                                         <h1> Hi, I 'm  <strong className="brand-name"> Nimit Rastogi</strong></h1>
                                         <h5 className=""> Competitive Programmer, Front End web developer </h5>
                                          {/* <div className="mt-3"> */}
-                                        <a className="btn btn-get-started" href="https://drive.google.com/file/d/1UhH3Zc0GIO_hJj2m3HRUWO1WSKNwOJW_/view?usp=sharing" target="_blank"> Resume(Open to Work)</a>
+                                        <a  href="https://drive.google.com/file/d/1UhH3Zc0GIO_hJj2m3HRUWO1WSKNwOJW_/view?usp=sharing" className="btn btn-get-started" target="_blank"> Resume(Open to Work)</a>
                                         {/* </div>  */}
                                         {/* </div> */}
                                     </div>
